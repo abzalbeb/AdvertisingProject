@@ -177,4 +177,6 @@ app.get('/', async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Сервер запущен: http://localhost:${PORT}`);
+  
 });
+
